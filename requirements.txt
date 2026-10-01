@@ -31,6 +31,7 @@ unstructured
 # ==============================
 # Embeddings / NLP
 # ==============================
+langchain-huggingface
 sentence-transformers
 transformers
 huggingface-hub
