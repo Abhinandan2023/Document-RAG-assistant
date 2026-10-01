@@ -2,6 +2,9 @@
 
 A dynamic Retrieval-Augmented Generation (RAG) application that allows users to upload documents and ask questions about their content using natural language.
 
+ Live Demo:
+ https://repository-name-document-rag-assistant.streamlit.app/       
+
  Features:
 
  Upload PDF, TXT, and DOCX documents
@@ -11,7 +14,8 @@ A dynamic Retrieval-Augmented Generation (RAG) application that allows users to 
  Mistral AI for answer generation
  Interactive Streamlit chat interface
  Upload a new document and start a new conversation
- Architecture
+
+ Architecture:
 Document Upload
       ↓
 Document Loading
