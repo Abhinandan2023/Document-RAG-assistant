@@ -74,12 +74,10 @@ embedding_model = load_embedding_model()
 
 @st.cache_resource
 def load_llm():
-
     return ChatMistralAI(
-        model="codestral-2508"
+        model="codestral-2508",
+        api_key=os.getenv("MISTRAL_API_KEY")
     )
-
-
 llm = load_llm()
 
 
