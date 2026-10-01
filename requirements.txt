@@ -1,0 +1,80 @@
+# ==============================
+# Mistral AI
+# ==============================
+mistralai
+
+# ==============================
+# LangChain - RAG Framework
+# ==============================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Mistral integration with LangChain
+langchain-mistralai
+
+# ==============================
+# Vector Database
+# ==============================
+chromadb
+langchain-chroma
+
+# ==============================
+# Document Loaders
+# ==============================
+pypdf
+python-docx
+openpyxl
+unstructured
+
+# ==============================
+# Embeddings / NLP
+# ==============================
+sentence-transformers
+transformers
+huggingface-hub
+tokenizers
+
+# ==============================
+# Numerical / Data Processing
+# ==============================
+numpy
+pandas
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Tokenization
+# ==============================
+tiktoken
+
+# ==============================
+# API / HTTP
+# ==============================
+httpx
+requests
+
+# ==============================
+# Data Validation
+# ==============================
+pydantic
+
+# ==============================
+# Web/API Backend
+# ==============================
+fastapi
+uvicorn
+
+# ==============================
+# UI
+# ==============================
+streamlit
+
+# ==============================
+# Utilities
+# ==============================
+tqdm
