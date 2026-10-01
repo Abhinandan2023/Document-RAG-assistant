@@ -1,81 +1,31 @@
-# ==============================
-# Mistral AI
-# ==============================
-mistralai
 
-# ==============================
-# LangChain - RAG Framework
-# ==============================
+# UI
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# LangChain
 langchain
 langchain-core
 langchain-community
 langchain-text-splitters
 
-# Mistral integration with LangChain
+# Mistral AI
+mistralai
 langchain-mistralai
 
-# ==============================
-# Vector Database
-# ==============================
-chromadb
-langchain-chroma
-
-# ==============================
-# Document Loaders
-# ==============================
-pypdf
-python-docx
-openpyxl
-unstructured
-
-# ==============================
-# Embeddings / NLP
-# ==============================
+# HuggingFace Embeddings
 langchain-huggingface
 sentence-transformers
 transformers
 huggingface-hub
 tokenizers
 
-# ==============================
-# Numerical / Data Processing
-# ==============================
-numpy
-pandas
+# Vector Database
+chromadb
 
-# ==============================
-# Environment Variables
-# ==============================
-python-dotenv
-
-# ==============================
-# Tokenization
-# ==============================
-tiktoken
-
-# ==============================
-# API / HTTP
-# ==============================
-httpx
-requests
-
-# ==============================
-# Data Validation
-# ==============================
-pydantic
-
-# ==============================
-# Web/API Backend
-# ==============================
-fastapi
-uvicorn
-
-# ==============================
-# UI
-# ==============================
-streamlit
-
-# ==============================
-# Utilities
-# ==============================
-tqdm
+# Document Loaders
+pypdf
+python-docx
+docx2txt
